@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import "./globals.css";
 import { Crimson_Text, Work_Sans } from "next/font/google";
 import Footer from "./components/Footer";
+import GoogleTagManager from "./components/GoogleTagManager";
 
 const crimson_text = Crimson_Text({
   subsets: ["latin"],
