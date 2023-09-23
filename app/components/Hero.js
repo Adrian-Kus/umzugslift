@@ -64,7 +64,7 @@ export default function Hero() {
               width={1600}
               height={1200}
               priority={true}
-              src="/hero-img.jpg"
+              src="/hero-img-2.jpg"
             />
           </div>
         </div>

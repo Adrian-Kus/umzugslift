@@ -23,7 +23,7 @@ export default function Pricing() {
                 3 Stunden
               </h3>
               <p className="md:text-5xl text-[2.5rem] text-gray-900 leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
-                269 EURO
+                299 EURO
               </p>
               <p className="flex items-center text-1.2 leading-relaxed text-gray-600 mb-2">
                 <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
@@ -71,7 +71,7 @@ export default function Pricing() {
                     <path d="M20 6L9 17l-5-5"></path>
                   </svg>
                 </span>
-                90 Euro je weitere Stunde
+                89 Euro je weitere Stunde
               </p>
 
               <a
